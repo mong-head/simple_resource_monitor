@@ -1,0 +1,4 @@
+﻿  srm.cpp
+c:\users\ssss\desktop\srm\srm.cpp(25): warning C4101: 'avail_mem' :참조되지 않은 지역 변수입니다.
+c:\users\ssss\desktop\srm\srm.cpp(25): warning C4101: 'total_mem' :참조되지 않은 지역 변수입니다.
+  srm.vcxproj -> C:\Users\ssss\Desktop\Debug\srm.exe
